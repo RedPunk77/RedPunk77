@@ -70,9 +70,6 @@ Today I'm focused on building machine learning systems, studying deep learning f
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedPunk77&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=RedPunk77&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
