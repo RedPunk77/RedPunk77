@@ -3,8 +3,9 @@
 <h3>Computer Vision • Machine Learning • Deep Learning</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RedPunk77&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/RedPunk77?style=flat&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=RedPunk77&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/RedPunk77?style=flat&logo=github" />
+<img src="https://img.shields.io/github/stars/RedPunk77?affiliations=OWNER&style=flat" />
 </p>
 
 ---
@@ -64,17 +65,13 @@ Today I'm focused on building machine learning systems, studying deep learning f
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RedPunk77&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RedPunk77&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPunk77&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedPunk77&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedPunk77&theme=github-dark&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=RedPunk77&theme=github-dark&hide_border=true" />
 </p>
 
 ---
