@@ -2,13 +2,12 @@
 
 <h3>Computer Vision • Machine Learning • Deep Learning</h3>
 
----
-<p>
-<img src="https://komarev.com/ghpvc/?username=RedPunk77&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/RedPunk77?style=flat&logo=github"/>
-<img src="https://img.shields.io/github/stars/RedPunk77?affiliations=OWNER&style=flat"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RedPunk77&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/RedPunk77?style=flat&logo=github" />
 </p>
 
+---
 
 ## 👨‍💻 About Me
 
@@ -33,12 +32,8 @@ Today I'm focused on building machine learning systems, studying deep learning f
 
 ## 🛠 Languages & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,fastapi,flask,postgres,bash,vscode,arduino" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,sklearn,numpy,pandas,git,github,docker,linux,fastapi,flask,postgres,bash,vscode,arduino&perline=10"/>
 </p>
 
 ---
@@ -59,35 +54,27 @@ Today I'm focused on building machine learning systems, studying deep learning f
 
 ## 🌐 Profiles
 
-<p align="left">
-<a href="https://github.com/RedPunk77">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://codeforces.com/profile/Redpunk">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/makarkosenko/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
-</a>
-
-<a href="https://www.kaggle.com/makarkosenko">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="45"/>
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RedPunk77)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Redpunk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/makarkosenko/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/makarkosenko)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RedPunk77&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPunk77&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RedPunk77&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPunk77&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-<p>
-<img src="https://streak-stats.demolab.com?user=RedPunk77&theme=github-dark&hide_border=true"/>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedPunk77&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
