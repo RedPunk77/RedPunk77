@@ -16,7 +16,7 @@ I'm a Bachelor's student in **Applied Mathematics** at **NUST MISIS (Moscow)**.
 
 My programming journey started in **2020** with **C** programming for Arduino. Later I moved to **C++**, where I practiced competitive programming and developed my own game projects. After that I discovered **Python**, which eventually led me to the fascinating world of **Machine Learning** and **Computer Vision**.
 
-Today I'm focused on building machine learning systems, studying deep learning fundamentals, implementing neural networks from scratch, and exploring modern computer vision architectures.
+Today I'm focused on building machine learning systems - CV/LLM models, implementing neural networks from scratch, and exploring modern VLM architectures.
 
 ---
 
@@ -24,7 +24,7 @@ Today I'm focused on building machine learning systems, studying deep learning f
 
 - 🎓 Bachelor's student at **NUST MISIS**
 - 🌍 Based in Moscow
-- 🤖 Studying Machine Learning & Computer Vision
+- 🤖 ML-engineer (CV/VLM & LLM)
 - 🔬 Learning Deep Learning, PyTorch and OpenCV
 - 📚 Interested in CNNs, Object Detection and MLOps
 - 💡 Always building personal projects and improving my skills
@@ -75,16 +75,6 @@ Today I'm focused on building machine learning systems, studying deep learning f
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Redpunk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/makarkosenko/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/makarkosenko)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RedPunk77&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedPunk77&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 
 ---
