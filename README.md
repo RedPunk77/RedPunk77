@@ -14,30 +14,24 @@
 
 I'm a Bachelor's student in **Applied Mathematics** at **NUST MISIS**.
 
-I'm focused on **Computer Vision, Vision-Language Models and LLM systems**.
+My programming journey started in **2020** with **C** and Arduino projects. Later I moved to **C++**, practiced competitive programming and built my own game projects. After that I discovered **Python**, which led me into Machine Learning and Computer Vision.
 
-My main interests are:
-- **Vision Transformers, CLIP and VLMs**
-- **Object detection and segmentation**
-- **OCR and document vision**
-- **Transformers and LLMs**
-- **LLM quantization and efficient inference**
-
-I enjoy building practical ML systems, running experiments and understanding how modern architectures work under the hood.
+Today I'm focused on **Computer Vision, Vision-Language Models and LLM systems** — from classical CV and deep learning to multimodal models, OCR and efficient LLM inference.
 
 ---
 
 ## 🧠 Focus Areas
 
-### Computer Vision & Multimodal ML
-
-- Classical CV and OpenCV
-- Object detection and segmentation
-- YOLO11, U-Net
-- ViT-based architectures
-- CLIP and Vision-Language Models
-- Visual grounding and multimodal reasoning
+**Computer Vision & Multimodal ML**
+- Classical CV, OpenCV, detection and segmentation
+- YOLO11, U-Net, ViT, CLIP
+- VLMs, visual grounding and multimodal reasoning
 - OCR and document vision
+
+**NLP & LLM**
+- Transformers, GPT, BERT
+- RAG, agents, fine-tuning and LoRA
+- LLM inference and quantization
 
 ### NLP & LLM
 
