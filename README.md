@@ -33,16 +33,6 @@ Today I'm focused on **Computer Vision, Vision-Language Models and LLM systems**
 - RAG, agents, fine-tuning and LoRA
 - LLM inference and quantization
 
-### NLP & LLM
-
-- Tokenization, embeddings and attention
-- Transformer architectures
-- GPT and BERT
-- RAG and agents
-- Fine-tuning and LoRA
-- LLM inference
-- Quantization and efficient inference
-
 ---
 
 ## 🛠 Tech Stack
