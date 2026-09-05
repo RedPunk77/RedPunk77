@@ -86,7 +86,6 @@ Worked on **CLIP/ViT embeddings, image similarity, visual feature extraction and
 
 ## 🏆 Achievements
 
-- 🥉 Kaggle Bronze Medalist
 - 🏆 Ozon Tech E-Cup 2025 participant
 - 💻 Competitive Programming: Codeforces & LeetCode
 
